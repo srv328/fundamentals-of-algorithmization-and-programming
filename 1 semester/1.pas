@@ -3,6 +3,7 @@
     int:integer;
 
 
+
 procedure GetPosition(const str:string; ch:char; var int:integer);
 //ищет в строке str символ ch и возращает позицию int
 var i:integer;
